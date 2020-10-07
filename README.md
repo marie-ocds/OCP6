@@ -5,11 +5,11 @@ Each product is affected to one category ('Watches', 'Computers', 'Baby Care', e
 
 The purpose of the project is to evaluate the possibility to automatically classify these products according to their photo or description, or a combination of both.
 
-### Notebook N° 1
+## Notebook N° 1
 Exploration of the dataset.  
 Visualization of some images for each category of products
 
-### Notebook N° 2
+## Notebook N° 2
 Focus on the images :
 - Image preprocessing (Resizing, adjusting colors and contrast)
 - Feature extraction with ORB, creation of 'Bags of words' with K-Means
@@ -21,7 +21,7 @@ Focus on the images :
 - Dimensional Reduction (PCA)
 - Interactive Visualisation of the clusters (t-SNE Projection) with Plotly
 
-### Notebook N° 3
+## Notebook N° 3
 Focus on the descriptions (text data) :
 - Natural Language Processing (Cleaning, Tokenization, Lemmatization of the text)
 - Count Vectorizer, relative term frequency (tf-idf)
