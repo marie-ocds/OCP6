@@ -1,9 +1,7 @@
 # OCP6
 ## Project 6 OPENCLASSROOMS - Automatically classify consumer goods
-For this project we have a dataset of 1050 products with their image and descriptions.  
-Each product is affected to one category ('Watches', 'Computers', etc.)
-
-Source of the data : https://www.kaggle.com/olistbr/brazilian-ecommerce
+For this project we have a dataset of 1050 products with their photo and description.  
+Each product is affected to one category ('Watches', 'Computers', 'Baby Care', etc.)
 
 The purpose of the project is to evaluate the possibility to automatically classify these products according to their photo or description, or a combination of both.
 
